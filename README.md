@@ -6,6 +6,10 @@ Developing a website application using Next.js
 	🚧  Projeto  🚀 Em construção...  🚧
 </h4>
 
+### aprendizado 
+
+<p><strong>SSG: </strong>Gera uma versão estática e evita gastar recurso.</p>
+
 
 ### 🛠 Tecnologias
 
