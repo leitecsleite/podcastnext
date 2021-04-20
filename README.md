@@ -8,7 +8,7 @@ Developing a website application using Next.js
 
 ### Aprendizado 🤓 
 
-<p><strong>SSG: </strong>Gera uma versão estática e evita gastar recurso.</p>
+<p><strong>Geração de estáticos - Static Site Generation - SSG </strong>Gera uma versão estática e evita gastar recurso.</p>
 
 
 ### 🛠 Tecnologias
