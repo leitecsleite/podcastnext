@@ -18,7 +18,7 @@ O NextJS também possibilita a criação de sites estáticos, que são aqueles s
 
 Então nesse caso teríamos todo conteúdo estático e um formulário que seria usado para coletar os dados das pessoas que tem interesse no produto, esse formulário sim precisaria de interação e para isso, na documentação do NextJS é indicado o uso da função getStaticProps.
 
-<p>font:</p><a href ="https://www.alura.com.br/artigos/next-js-vantagens?gclid=Cj0KCQjw9_mDBhCGARIsAN3PaFN6igCQmJl4qgsG77034PTB-GaWv8afXSbxoBOacrhNO-tOUdBp5pkaAmyeEALw_wcB">Alura</a>
+font:<a href ="https://www.alura.com.br/artigos/next-js-vantagens?gclid=Cj0KCQjw9_mDBhCGARIsAN3PaFN6igCQmJl4qgsG77034PTB-GaWv8afXSbxoBOacrhNO-tOUdBp5pkaAmyeEALw_wcB">Alura</a>
 
 
 ### 🛠 Tecnologias
@@ -29,7 +29,6 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [ReactJS](https://pt-br.reactjs.org/)
 - [Next.Js](https://nextjs.org/)
 
-Resultado:
 
 
 ### 🎓 Estudante da NLW
