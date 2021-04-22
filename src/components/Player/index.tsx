@@ -6,9 +6,14 @@ import {useContext, useRef, useEffect} from 'react';
 import Image from 'next/image';
 
 export function Player(){
+
   const audioRef = useRef<HTMLAudioElement>(null); 
 
-  const { episodeList , currentEpisodeIndex, isPlaying, togglePlay} = useContext(PlayerContexts)
+  const { episodeList ,
+         currentEpisodeIndex,
+          isPlaying,
+          setPlayingState,
+          togglePlay} = useContext(PlayerContexts)
 
   useEffect(() =>{
     if(!audioRef.current){
@@ -75,6 +80,8 @@ export function Player(){
               <audio 
                src={episode.url}
                ref={audioRef}
+               onPlay ={() => setPlayingState(true)}
+               onPause = {() => setPlayingState(false)}
                autoPlay
               />
             )}
