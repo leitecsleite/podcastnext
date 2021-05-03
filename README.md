@@ -3,7 +3,7 @@ Developing a website application using Next.js
 
 
 <h4 align="center"> 
-	🚧  Projeto  🚀 Em construção...  🚧
+       Projeto finalizado com sucesso...
 </h4>
 
 ###  📚 Aprendizado 🤓 
